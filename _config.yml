@@ -2,6 +2,7 @@ name: "Siyavula Education"
 description: "Technology-powered Learning"
 
 url: "http://localhost:4000" 
+baseurl: "/siyavula.com/"
 
 paginate: 10
 
